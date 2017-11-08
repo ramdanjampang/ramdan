@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>pengembangan web </title>
+	<title>pengembangan web dan ini adalah pengembangannya </title>
 </head>
 <body>
 <h1>plikasi kalkulator</h1>
